@@ -109,7 +109,7 @@ int main() {
         return 1;
     }
 
-    printf("Comandos introducidos\n");
+    printf("Commands ready\n");
 
     // Mantener el programa en ejecución
     while (1) {
